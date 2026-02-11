@@ -1,0 +1,32 @@
+<div class="container mt-5">
+  <h2 class="text-center mb-4">My Bucket List</h2>
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-body">
+          <h5>🌏 Visit Japan</h5>
+          <p>Experience culture, food, and technology.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-body">
+          <h5>🚀 Launch a Web App</h5>
+          <p>Create a fully functional project for real users.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-body">
+          <h5>📖 Write a Story</h5>
+          <p>Publish a complete fictional narrative.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

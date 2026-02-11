@@ -1,0 +1,26 @@
+<div class="container mt-5">
+  <h2 class="text-center mb-4">My Goals & Aspirations</h2>
+
+  <div class="row text-center">
+    <div class="col-md-6">
+      <div class="alert alert-primary">
+        Graduate with strong technical skills.
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="alert alert-success">
+        Build impactful and meaningful projects.
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="alert alert-warning">
+        Continue improving creativity and leadership.
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="alert alert-info">
+        Travel and experience different cultures.
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="container mt-5">
+  <h2 class="text-center mb-4">My Hobbies</h2>
+
+  <ul class="list-group">
+    <li class="list-group-item">🎮 Playing story-driven and strategy games</li>
+    <li class="list-group-item">📚 Reading and learning new skills</li>
+    <li class="list-group-item">💻 Coding and building small projects</li>
+    <li class="list-group-item">🎧 Listening to music while working</li>
+  </ul>
+</div>
